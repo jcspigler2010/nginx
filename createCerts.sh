@@ -18,6 +18,7 @@ cd /certs
 #
 #
 # DOMAIN=$1
+###test
 $CERT_NAME
 ### Begin script
 
