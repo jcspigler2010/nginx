@@ -40,7 +40,7 @@ keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
 subjectAltName = @alt_names
 
 [alt_names]
-DNS.1 = ${CERT_NAME}
+DNS.1 = api.example.com
 DNS.2 = api
 DNS.3 = localhost
 EOF
