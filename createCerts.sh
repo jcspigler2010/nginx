@@ -19,6 +19,7 @@ cd /certs
 #
 # DOMAIN=$1
 $CERT_NAME
+### Begin script
 
 sudo mkdir /certs
 sudo chmod 755 -R /certs
